@@ -28,6 +28,11 @@ Für die Übungen brauchen Sie ein GitHub.com Konto:
 -   Bei der Registrierung wählen Sie ein Passwort, das Sie nirgendwo anders verwenden. Am Ende des Semesters können Sie Ihr Passwort ändern.
 -   Empfehlung: Aktivieren Sie die [Zwei-Faktor-Authentifizierung (2FA)](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication#configuring-two-factor-authentication-using-github-mobile) in den Einstellungen Ihres GitHub-Kontos.
 -   Empfehlung: Beantragen Sie die [Studentenvorteile](https://education.github.com/discount_requests/application), um kostenlosen Zugang zu GitHub Copilot zu erhalten, einem KI-gestützten Code-Completion- und Chat-Tool.
+-   
+## Google Account
+
+Die Notebooks können auch in Google Colab ausgeführt werden. Dafür brauchen Sie ein Google-Konto.
+
 
 ## Visual Studio Code
 
