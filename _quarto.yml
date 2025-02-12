@@ -1,0 +1,39 @@
+project:
+  type: book
+
+execute: 
+  enabled: true
+
+lang: de
+book:
+  title: "Einführung in die mathematische Optimierung"
+  author: "Boyko Amarov"
+  date: "4/02/2024"
+  chapters:
+    - index.qmd
+    - part: "Einführung in Python"
+      chapters:
+        - 01-Python/01-01-Basics.ipynb
+        - 01-Python/01-02-Basics-Ex.ipynb
+        - 01-Python/01-03-Numpy.ipynb
+        - 01-Python/01-04-Pandas.ipynb
+        - 01-Python/01-05-Pandas-Ex.ipynb    
+    - part: "Die graphische Methode"
+      chapters:
+        # - 03-Graphical-Method/00-Burritos.ipynb
+        - 03-Graphical-Method/01-Berlin-Airlift.ipynb
+        - 03-Graphical-Method/02-Blending.ipynb
+        # - 02-GraphischeMethode/02-Sensitivity.ipynb
+    - Homeworks.qmd
+    - Links.qmd
+    - Literature.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    html-math-method: katex
+
+editor: visual
