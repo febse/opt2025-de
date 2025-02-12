@@ -1,6 +1,5 @@
-
 # Hausaufgaben {.unnumbered}
 
 Um auf die Hausaufgaben zuzugreifen, klicken Sie auf den entsprechenden Link. Sie brauchen dazu ein GitHub-Konto.
 
-- Einführung in Python: [https://classroom.github.com/a/Fg2ngRdJ](https://classroom.github.com/a/Fg2ngRdJ)
+-   Einführung in Python: <https://classroom.github.com/a/Fg2ngRdJ>

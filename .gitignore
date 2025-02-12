@@ -215,3 +215,6 @@ _book/
 
 **.OTTER_LOG
 *.lp
+
+/.conda/
+/.venv/
