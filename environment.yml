@@ -7,11 +7,19 @@ dependencies:
   - pandas
   - numpy
   - scipy
+  - scikit-learn
   - matplotlib
-  - jupyter
+  - statsmodels
   - seaborn
+  - ipykernel
+  - ipython
+  - jinja2
   - plotly
+  - pyyaml
+  - jupyter
+  - tabulate
   - qrcode
+  - yaml
   - gurobi=12.0.1
   - pip
   - pip:
