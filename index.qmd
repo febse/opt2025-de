@@ -33,6 +33,40 @@ Für die Übungen brauchen Sie ein GitHub.com Konto:
 
 Die Notebooks können auch in Google Colab ausgeführt werden. Dafür brauchen Sie ein Google-Konto. In Google Colab können Sie auch das KI Produkt Gemini benutzen.
 
+Um auf die Notebooks zuzugreifen, öffnen Sie zuerst die [Google Colab Website](https://colab.research.google.com/) und loggen Sie sich mit Ihrem Google-Konto ein.
+
+![Nach Einloggen](./figures/colab/01-After-Login.png)
+
+Nachdem Sie eingeloggt sind, klicken Sie auf "File" und dann auf "Open Notebook".
+
+![Open Notebook](./figures/colab/02-Open-Notebook.png)
+
+Wählen Sie "GitHub" und geben Sie den Namen des Kursrepositories ein:
+
+:::{.callout-note}
+## Name des Kursrepositories
+
+{{< var githubShort >}}
+:::
+
+
+![Github Button](./figures/colab/03-Github-Button.png)
+
+![Namen eingeben](./figures/colab/04-Github-Address.png)
+
+Die Notebooks in dem Kursrepository werden aufgelisted. Wählen Sie das Notebook, das Sie öffnen möchten.
+Das Notebook wird in Google Colab geöffnet. Sie können den Code ausführen, indem Sie auf den Play-Button klicken.
+
+
+<!-- ![Notebook auswählen](./figures/colab/05-List-of-Notebooks.png) -->
+
+
+![Notebook geöffnet](./figures/colab/06-Opened-Notebook.png)
+
+Bevor Sie den Code ausführen, wird Ihnen eine Warnung angezeigt. Klicken Sie auf "Run anyway".
+
+![Warnung](./figures/colab/07-Warning.png)
+
 
 ## Visual Studio Code (optional)
 
@@ -68,9 +102,7 @@ Es gibt viele Möglichkeiten, wie Sie Python local auf Ihrem Rechner installiere
 
 -   Laden Sie das Miniconda Installationspaket von <https://www.anaconda.com/download/success> für Ihr Betriebssystem.
 
--   Starten Sie das Packet und folgen Sie den Anweisungen. Lassen Sie die Standardeinstellungen unverändert, es sei denn, Sie wissen was Sie tun.
-
--   Installieren Sie Conda in einem Ordner ohne Leerzeichen und nur mit ASCII Zeichen im Pfad (d.h. keine Kyrillischen Zeichen, keine Umlaute, etc.), z.B. `C:\Miniconda3` oder `C:\Users\boyko\Miniconda3`.
+-   Starten Sie das Packet und folgen Sie den Anweisungen. Lassen Sie die Standardeinstellungen unverändert, es sei denn, Sie wissen was Sie tun. Achtung: die Installation kann lange Zeit dauern.
 
 -   Nachdem Miniconda installiert ist, öffnen Sie VSC. Drücken Sie `Ctrl+Shift+P` und starten Sie zu schreiben: "Python: Create environment". Wenn die Option in dem Dropdown-Menü erscheint, wählen Sie sie und drucken Sie Enter.
 

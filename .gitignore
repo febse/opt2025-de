@@ -212,6 +212,7 @@ _quarto/
 
 /.quarto/
 _book/
+_site/
 
 **.OTTER_LOG
 *.lp
