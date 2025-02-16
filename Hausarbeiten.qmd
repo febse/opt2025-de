@@ -52,4 +52,6 @@ Wählen Sie das Repository von der Dropdownliste (in diesem Beispiel ist das `fe
 
 Um sich zu vergewissern, daß die Datei hochgeladen wurde, öffenen Sie Ihr Repository in GitHub und öffnen Sie das Notebook dort.
 
-![Das Notebook in GitHub](./figures/colab/11-View-in-GitHub.png)
+![GitHub Repository](./figures/colab/11-Open-GitHub.png)
+
+![Das Notebook in GitHub](./figures/colab/12-Open-File-in-GitHub.png)
