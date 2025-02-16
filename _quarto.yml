@@ -35,5 +35,5 @@ format:
   html:
     theme: cosmo
     html-math-method: katex
-
-editor: visual
+    code-fold: true
+    code-summary: "Anzeigen"
