@@ -9,7 +9,7 @@ lang: de
 book:
   title: "Einführung in die lineare Optimierung"
   author: "Boyko Amarov"
-  date: "4/02/2024"
+  date: last-modified
   chapters:
     - index.qmd
     - Hausarbeiten.qmd
