@@ -1,0 +1,55 @@
+# Hausarbeiten {.unnumbered}
+
+1.  Klicken Sie auf den Einladungslink zur Aufgabe, melden Sie sich bei GitHub an und wählen Sie Ihre Studenten-ID aus der Liste aus. *Bitte achten Sie darauf, daß Sie die richtige Studenten-ID wählen.*
+
+![Finden Sie Ihre Studenten-ID](figures/hw/01-Open-Invitation.png)
+
+2.  Die Hausaufgabe ist eine Gruppenaufgabe. Die Anzahl der Teammitglieder ist auf *drei* begrenzt. Das erste Mitglied der Gruppe kann die Aufgabe öffnen und das Team erstellen. Die restlichen Mitglieder können sich dem Team anschliessen.
+
+![Ein Team erstellen](figures/hw/02-Create-Team.png) ![Einem bestehenden Team beitreten](figures/hw/02a-Join-Team.png)
+
+Nachdem Ihr Team eingerichtet ist, klicken Sie auf "Accept Assignment"
+
+![Die Aufgabe annehmen](figures/hw/03-Accept-Assignment.png)
+
+![Das Repository öffnen](figures/hw/04-Open-Repo.png)
+
+Die Aufgabe wir in der Form eines Jupyter-Notebooks bereitgestellt und sie haben mehrere Möglichkeiten es zu bearbeiten. Wie sie das tun ist für die Bewertung nicht relevant.
+
+## Google Colaboratory (empfohlen)
+
+Sie können die Aufgaben in Google Colab bearbeiten, ohne daß Sie Ihren Computer konfiguriren zu brauchen.
+
+Öffnen Sie die Google Colab Seite und loggen Sie sich ein.
+
+![Nach Einloggen](./figures/colab/01-After-Login.png)
+
+Clicken Sie auf "File", dann wählen Sie "Open Notebook". In dem Fenster wählen Sie "GitHub".
+
+![GitHub](./figures/colab/03-Github-Button.png)
+
+::: callout-warning
+## Team Repository Beispiel
+
+Nehmen wir an, daß Ihr Team `test` heißt und daß die Adresse Ihres Repository wie folgt ist:
+
+https://github.com/febse/python-basics-opt2025-test
+
+Kopieren Sie das Teil nach github.com, d.h. `febse/python-basics-opt2025-test` und fügen Sie es in das Suchfeld ein. Finden Sie das Notebook in der Liste under dem Suchfeld.
+:::
+
+![GitHub Repository](./figures/colab/09-Homework-Repository-Search.png)
+
+::: callout-important
+## Speichern
+
+Nachdem Sie Ihr Notebook bearbeiten, müssen Sie es zurück in das Repository speichern. Klicken Sie auf `Ctrl-s` (Kontroll Taste und s). Leider wird die Datei nicht direkt in das Repository gespeichert. Stattdessen wird Sie Colab fragen, wo Sie das Notebook speichern möchten und **Sie müssen darauf achten, daß Sie das richtige Repository wählen**.
+
+Wählen Sie das Repository von der Dropdownliste (in diesem Beispiel ist das `febse/python-basics-opt2025-test`) und klicken Sie auf "ok". Sie können auch "Include link to Colab" auf Ja setzen.
+:::
+
+![Das richtige Repository finden](./figures/colab/10-Saving-to-Repository.png)
+
+Um sich zu vergewissern, daß die Datei hochgeladen wurde, öffenen Sie Ihr Repository in GitHub und öffnen Sie das Notebook dort.
+
+![Das Notebook in GitHub](./figures/colab/11-View-in-GitHub.png)

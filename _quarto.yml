@@ -12,6 +12,7 @@ book:
   date: "4/02/2024"
   chapters:
     - index.qmd
+    - Hausarbeiten.qmd
     - part: "Einführung in Python"
       chapters:
         - 01-Python/01-Basics.ipynb
