@@ -23,8 +23,8 @@ book:
         # - 03-Graphical-Method/00-Burritos.ipynb
         - 02-Graphical-Method/01-Berlin-Airlift.ipynb
         - 02-Graphical-Method/02-Blending.ipynb
-        - 02-GraphischeMethode/02-Sensitivity.ipynb
-    - Homeworks.qmd
+        - 02-GraphischeMethode/03-Sensitivity-Analysis.ipynb
+    # - Homeworks.qmd
     - Links.qmd
     - Literature.qmd
     - references.qmd
