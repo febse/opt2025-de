@@ -1,4 +1,4 @@
-# Setup {.unnumbered}
+# Allgemeine Information {.unnumbered}
 
 ::: callout-note
 ## Website URL
@@ -8,19 +8,27 @@
 ![](figures/qr_code.png)
 :::
 
+## Bewertung
+
+Die Bewertung besteht aus zwei Teilen:
+
+- Zwei Hausaufgaben, die in Gruppen mit bis zu drei Personen bearbeitet werden können. Die Hausaufgaben weden nicht benotet, müssen aber abgegeben werden, um zum zweiten Teil der Bewertung zugelassen zu werden.
+- Eine Präsentation am Ende des Semesters (bis zu 10 Minuten), die auch in Gruppen von bis zu drei Personen gehalten werden kann. Die Präsentation wird benotet, Details dazu werden im Laufe des Semesters bekannt gegeben.
+
+## Emfohlene Literatur {.unnumbered}
+
+<https://tinyurl.com/yc3ctth6>
+
+1. @DIETZ2019LineareAlgebraUnd (Deutsch): Kapitel 23 und 24
+2. @SCHWENKERT2015OperationsResearchKompakt (Deutsch): Teil 1
+3. @WILLIAMS2013ModelBuildingMathematical (English)
+
+
+## Software
+
 In den Übungen werden wir die Programmiersprache Python verwenden, um die in der Vorlesung behandelten Themen zu erklären und an realen Daten zu üben. Die Übungen werden in Form von Jupyter Notebooks bereitgestellt, die Sie in Ihrer eigenen Umgebung ausführen können.
 
-Deswegen ist es notwendig, zuerst eine Arbeitsumgebung einzurichten.
-
-## Git
-
-Die Übungen werden in einem Git-Repository auf GitHub bereitgestellt. Git ist ein Versionskontrollsystem, das die Änderungen an Dateien verfolgt und es ermöglicht, verschiedene Versionen von Dateien zu speichern. GitHub ist eine Plattform, die auf Git basiert und es ermöglicht, Git-Repositories zu hosten und zu teilen.
-
-Wir werden Git verwenden, um die Übungen herunterzuladen und um Ihre Lösungen hochzuladen.
-
-Installieren Sie Git von <https://git-scm.com/downloads>. Wählen Sie die Version, die zu Ihrem Betriebssystem passt und folgen Sie den Anweisungen. Lassen Sie die Standardeinstellungen unverändert, es sei denn, Sie wissen ganz genau, was Sie tun.
-
-## GitHub Account
+### GitHub Account
 
 Für die Übungen brauchen Sie ein GitHub.com Konto:
 
@@ -29,7 +37,7 @@ Für die Übungen brauchen Sie ein GitHub.com Konto:
 -   Empfehlung: Aktivieren Sie die [Zwei-Faktor-Authentifizierung (2FA)](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication#configuring-two-factor-authentication-using-github-mobile) in den Einstellungen Ihres GitHub-Kontos.
 -   Empfehlung: Beantragen Sie die [Studentenvorteile](https://education.github.com/discount_requests/application), um kostenlosen Zugang zu GitHub Copilot zu erhalten, einem KI-gestützten Code-Completion- und Chat-Tool.
 
-## Google Colaboratory (empfohlen)
+### Google Colaboratory (empfohlen)
 
 Die Notebooks können auch in Google Colab ausgeführt werden. Dafür brauchen Sie ein Google-Konto. In Google Colab können Sie auch das KI Produkt Gemini benutzen.
 
@@ -67,14 +75,21 @@ Bevor Sie den Code ausführen, wird Ihnen eine Warnung angezeigt. Klicken Sie au
 
 ![Warnung](./figures/colab/07-Warning.png)
 
+### Git (optional)
 
-## Visual Studio Code (optional)
+Falls Sie die Unterlagen lokal auf Ihrem Rechner bearbeiten möchten, ist es am einfachsten, Git zu installieren, um auf das GitHub Repository zuzugreifen.
+
+
+Installieren Sie Git von <https://git-scm.com/downloads>. Wählen Sie die Version, die zu Ihrem Betriebssystem passt und folgen Sie den Anweisungen. Lassen Sie die Standardeinstellungen unverändert, es sei denn, Sie wissen ganz genau, was Sie tun.
+
+
+### Visual Studio Code (optional)
 
 Visual Studio Code (VSC) ist ein Open-Source-Code-Editor, den wir für die Arbeit mit Python benutzen werden.
 
 Installieren Sie Visual Studio Code von <https://code.visualstudio.com/>. Wählen Sie die Version, die zu Ihrem Betriebssystem passt und folgen Sie den Anweisungen.
 
-## Kursrepository klonen (optional)
+### Kursrepository klonen (optional)
 
 Öffnen Sie VSC und drücken Sie `Ctrl+Shift+P`. Suchen Sie nach "Git: Clone" und drücken Sie Enter. Geben Sie die URL des Kursrepositories ein:
 
