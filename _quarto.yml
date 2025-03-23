@@ -17,7 +17,7 @@ book:
       chapters:
         - 01-Python/01-Basics.ipynb
         - 01-Python/02-Numpy.ipynb
-        - 01-Python/03-Pandas.ipynb        
+        - 01-Python/03-Pandas.ipynb     
     - part: "Die graphische Methode"
       chapters:
         # - 03-Graphical-Method/00-Burritos.ipynb
