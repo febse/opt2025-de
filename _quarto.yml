@@ -29,6 +29,8 @@ book:
       chapters:
         - IP-Urban-Planning.ipynb
         - LP-Diet.ipynb
+        - Job-Assignment.ipynb
+        - Milonga.ipynb
     - Links.qmd
     - references.qmd
 
