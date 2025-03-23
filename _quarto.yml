@@ -24,6 +24,11 @@ book:
         - 02-Graphical-Method/01-Berlin-Airlift.ipynb
         - 02-Graphical-Method/02-Blending.ipynb
         - 02-Graphical-Method/03-Sensitivity-Analysis.ipynb
+
+    - part: "Anwendungen"
+      chapters:
+        - IP-Urban-Planning.ipynb
+        - LP-Diet.ipynb
     - Links.qmd
     - references.qmd
 
