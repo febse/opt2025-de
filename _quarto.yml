@@ -40,5 +40,5 @@ format:
   html:
     theme: cosmo
     html-math-method: katex
-    code-fold: true
+    code-fold: false
     code-summary: "Anzeigen"
