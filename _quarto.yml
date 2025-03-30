@@ -30,7 +30,7 @@ book:
         - IP-Urban-Planning.ipynb
         - LP-Diet.ipynb
         - Job-Assignment.ipynb
-        - Milonga.ipynb
+        - Milonga-Ex.ipynb
     - Links.qmd
     - references.qmd
 
@@ -40,5 +40,5 @@ format:
   html:
     theme: cosmo
     html-math-method: katex
-    code-fold: true
+    code-fold: false
     code-summary: "Anzeigen"
