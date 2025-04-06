@@ -2,9 +2,9 @@
 # Hausarbeiten {.unnumbered}
 
 1. <https://classroom.github.com/a/Eimg8yV1> bis 2025-03-07, 12:00
-2. TBA
+2. <https://classroom.github.com/a/V91E7nyr> bis 2025-05-05, 12:00
 
-
+Upd
 ## Anleitung
 
 1.  Klicken Sie auf den Einladungslink zur Aufgabe, melden Sie sich bei GitHub an und wählen Sie Ihre Studenten-ID aus der Liste aus. *Bitte achten Sie darauf, daß Sie die richtige Studenten-ID wählen.*
