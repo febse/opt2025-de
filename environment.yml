@@ -158,6 +158,7 @@ dependencies:
   - pandocfilters=1.5.0=pyhd3eb1b0_0
   - pango=1.50.7=h0fee60c_1
   - parso=0.8.4=py311h06a4308_0
+  - patsy=1.0.1=py311h06a4308_0
   - pcre2=10.42=hebb0a14_1
   - pexpect=4.8.0=pyhd3eb1b0_3
   - pillow=11.1.0=py311hcea889d_0
