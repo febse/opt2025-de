@@ -35,6 +35,7 @@ book:
         - Prediction.ipynb
         - Production-Distribution.ipynb
         - Lineare-Algebra.ipynb
+        - Lineare-Algebra-Ex.ipynb
     - Links.qmd
     - references.qmd
 
