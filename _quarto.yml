@@ -33,9 +33,11 @@ book:
         - Milonga-Ex.ipynb
         - Prediction-Ex.ipynb
         - Prediction.ipynb
+        - Cocktails-Duality-Ex.ipynb
+        - Cocktails-Duality.ipynb
         - Production-Distribution.ipynb
-        - Lineare-Algebra.ipynb
-        - Lineare-Algebra-Ex.ipynb
+        # - Lineare-Algebra.ipynb
+        # - Lineare-Algebra-Ex.ipynb
     - Links.qmd
     - references.qmd
 
