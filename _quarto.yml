@@ -36,12 +36,13 @@ book:
         - Lineare-Algebra.ipynb
         - Cocktails-Excel-Python.ipynb
         - Cocktails-Duality.ipynb
+        - Cocktails-Algebra.ipynb
         - Production-Distribution.ipynb
         # - Lineare-Algebra.ipynb
         # - Lineare-Algebra-Ex.ipynb
     - Links.qmd
     - references.qmd
-
+    
 bibliography: references.bib
 
 format:
