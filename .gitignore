@@ -216,6 +216,8 @@ _site/
 
 **.OTTER_LOG
 *.lp
+*.ilp
+*.mps
 
 /.conda/
 /.venv/
