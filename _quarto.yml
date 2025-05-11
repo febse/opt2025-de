@@ -38,6 +38,7 @@ book:
         - Cocktails-Duality.ipynb
         - Cocktails-Algebra.ipynb
         - Production-Distribution.ipynb
+        - Max-Flow.ipynb
         # - Lineare-Algebra.ipynb
         # - Lineare-Algebra-Ex.ipynb
     - Links.qmd
