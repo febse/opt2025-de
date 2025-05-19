@@ -37,8 +37,9 @@ book:
         - Cocktails-Excel-Python.ipynb
         - Cocktails-Duality.ipynb
         - Cocktails-Algebra.ipynb
-        - Production-Distribution.ipynb
         - Max-Flow.ipynb
+        - Production-Distribution.ipynb
+        - cell_tower.ipynb
         # - Lineare-Algebra.ipynb
         # - Lineare-Algebra-Ex.ipynb
     - Links.qmd
